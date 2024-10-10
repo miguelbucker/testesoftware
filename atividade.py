@@ -12,7 +12,8 @@ lista = [random.randint(1,100) for _ in range(5)]
 def main():
 
     def 1(lista)
-        
+        n = input()
+        lista.append(n)
     def 2
     def 3
     def 4
