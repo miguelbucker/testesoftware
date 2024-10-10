@@ -15,6 +15,8 @@ def main():
         n = input()
         lista.append(n)
     def 2
+        n = input()
+        lista.remove(n)
     def 3
     def 4
     def 5
